@@ -2,6 +2,7 @@
 
 
 
+
 ## 1) 처음 Repository 설정
 
 git init
