@@ -1,9 +1,8 @@
 #How to use git bash
 
+########add
 
-
-
-## 1) Ã³À½ Repository ¼³Á¤
+## 1) ÃƒÂ³Ã€Â½ Repository Â¼Â³ÃÂ¤
 
 git init
 
@@ -11,10 +10,10 @@ git remote add origin ADDRESS
 
 ## Pull first before Push
 
-# gitÀÇ ÀÚ·á¸¦ Pull
+# gitÃ€Ã‡ Ã€ÃšÂ·Ã¡Â¸Â¦ Pull
 git pull origin master
 
-# git¿¡ Push
+# gitÂ¿Â¡ Push
 git push origin +master
 
 # show status
