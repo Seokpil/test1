@@ -1,0 +1,26 @@
+#How to use git bash
+
+
+
+## 1) 처음 Repository 설정
+
+git init
+
+git remote add origin ADDRESS
+
+## Pull first before Push
+
+# git의 자료를 Pull
+git pull origin master
+
+# git에 Push
+git push origin +master
+
+# show status
+git status
+
+# upload all file
+git add .
+
+# commit
+git commit -m "message"
