@@ -1,8 +1,9 @@
-#How to use git bash
+﻿#How to use git bash
 
 ########add
 
 ## 1) Ã³À½ Repository ¼³Á¤
+
 
 git init
 
@@ -24,3 +25,5 @@ git add .
 
 # commit
 git commit -m "message"
+
+#
